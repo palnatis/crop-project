@@ -1,0 +1,5 @@
+2022-08-18 19:53:16,588 - INFO - Started Data Ingestion
+2022-08-18 19:53:26,326 - INFO - Started Data Ingestion
+2022-08-18 19:53:29,346 - INFO - Completed ingestion in 0:00:03.020633, inserted 10837 records
+2022-08-18 19:54:09,222 - INFO - Started Data Ingestion
+2022-08-18 19:54:12,374 - INFO - Completed ingestion in 0:00:03.151531, inserted 10135 records
